@@ -1,0 +1,12 @@
+{
+  "name": "test-npm-package-users",
+  "version": "1.0.0",
+  "description": "uses test packages",
+  "main": "index.js",
+  "author": "Zack Fernandes <zackfern@github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@zackfern/package-one": "^1.0.0",
+    "@zackfern/package-two": "^1.0.0"
+  }
+}
